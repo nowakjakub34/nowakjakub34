@@ -5,3 +5,4 @@ My name is Jakub Nowak. Currently pursuing a Bachelor's degree in Computer Scien
 * Frontend project for the WDAI course — built with HTML, CSS, and JavaScript, focusing on UI and interactivity.
 * E-commerce app with a JavaScript frontend, backend API, SQLite database, and Postman-tested endpoints.
 * Evolution simulation project in Java (OOP) — modeling organisms, environment, and their interactions.
+* Finite Element Method (FEM) solution of a electromagnetic potential problem, implemented in Java.
