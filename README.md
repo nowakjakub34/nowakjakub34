@@ -7,5 +7,5 @@ My name is Jakub Nowak. Currently pursuing a Bachelor's degree in Computer Scien
   https://github.com/miloszes2/Projekt-WDAI-Nowak-Sulencki
 * Evolution simulation project in Java (OOP course) — modeling organisms, environment, and their interactions.
  https://github.com/nowakjakub34/Darwin_World
-* HabitsTracker app - database course project - TypeScript frontEnd + Axios and Pyton + FastApi backend using MongoDB database
+* HabitsTracker app - database course project - TypeScript + Axios frontEnd and Pyton + FastApi backend using MongoDB database
   https://github.com/nowakjakub34/HabitsTrackerApp_Nowak_Stojak-database_course
