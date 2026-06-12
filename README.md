@@ -7,5 +7,4 @@ My name is Jakub Nowak. Currently pursuing a Bachelor's degree in Computer Scien
   https://github.com/miloszes2/Projekt-WDAI-Nowak-Sulencki
 * Evolution simulation project in Java (OOP) — modeling organisms, environment, and their interactions.
  https://github.com/nowakjakub34/Darwin_World
-* Finite Element Method (FEM) solution of a electromagnetic potential problem, implemented in Java.
-  https://github.com/nowakjakub34/diffrential_eq_project
+* HabitsTracker database course project - javaScript frontEnd + Axios and Pyton + FastApi backend using MongoDB database
