@@ -1,5 +1,5 @@
 ## About me
-My name is Jakub Nowak. Currently pursuing a Bachelor's degree in Computer Science at AGH University of Science and Technology (2nd year). I spend my free time on sports (gym, volleybal, running), videogames/boardgames and books.
+My name is Jakub Nowak. Currently pursuing a Bachelor's degree in Computer Science at AGH University of Science and Technology (3rd year). I spend my free time on sports (gym, volleybal, running), videogames/boardgames and books.
 ## My projects
 * Frontend project for the WDAI course — built with HTML, CSS, and JavaScript, focusing on UI and interactivity.
   https://github.com/nowakjakub34/Aplikacje-Webowe
